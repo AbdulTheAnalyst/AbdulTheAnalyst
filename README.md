@@ -26,6 +26,6 @@ I'm Roqeeb, an ardent learner in the realm of Data Science and Engineering, spec
 
 ## Get in Touch
 
-📧 Daudaroqeeb2018@gmail.com
+📧 [Email](mailto:Daudaroqeeb2018@gmail.com)
 
 Let's connect and collaborate on exciting data projects!
