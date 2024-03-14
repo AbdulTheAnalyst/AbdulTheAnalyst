@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Roqeeb, an ardent learner in the realm of Data Science and Engineering, specializing as an Analytics Engineer. I have a relentless drive to upskill myself with relevant knowledge, ensuring I stay updated in this rapidly evolving field. I'm particularly passionate about helping organizations leverage data to make informed, data-driven decisions.
+I'm Roqeeb, an ardent learner in the realm of Data Analytics and Engineering, specializing as an Analytics Engineer. I have a relentless drive to upskill myself with relevant knowledge, ensuring I stay updated in this rapidly evolving field. I'm particularly passionate about helping organizations leverage data to make informed, data-driven decisions.
 
 ## Skills
 
